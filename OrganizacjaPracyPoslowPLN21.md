@@ -14,7 +14,7 @@ Na przykład, zatrudnienie jednego dobrego analityka nie ma sensu dla jednego po
 Zatrudnianie przez 15 posłów 15 sekretarek też nie jest najlepsze bo ta sama praca jest powielana.
 
 
-Osoby które warto zatrudnić w ramach pomocy posłom w pliku WspolpracownicyPoslow.md
+Osoby które warto zatrudnić w ramach pomocy posłom w pliku [WspolpracownicyPoslow](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/WspolpracownicyPoslow.md) 
 
 
 ### Technologie.
