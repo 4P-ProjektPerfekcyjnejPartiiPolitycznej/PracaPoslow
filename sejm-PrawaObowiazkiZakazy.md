@@ -1,5 +1,7 @@
 
 Ponieważ przyszły sejm to miejsce pracy, posłowie powinni zostać objęci prawami i obowiązkami określonymi w kodeksie pracy.
+Dodatkowe  nakładamy my w tym pliku.
+
 
 ## Prawa: 
 
