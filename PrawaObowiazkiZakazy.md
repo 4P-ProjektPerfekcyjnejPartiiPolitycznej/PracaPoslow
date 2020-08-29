@@ -1,5 +1,5 @@
 ## Prawa: 
-* Dofinansowanie partyjne. pln21 nie ma wydatków, całość subwencji partyjnej dzielimy równo na naszych posłów.
+* Dofinansowanie partyjne, pochodzące z subwencji partyjnej.
 
 ## Obowiązki: 
 * Raportowanie czasu pracy na konkretnymi zadaniami.
